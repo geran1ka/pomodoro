@@ -1,0 +1,1 @@
+export const declofNum = num => ('0' + num).slice(-2);
